@@ -1,0 +1,10 @@
+{
+  "project": "CARBON_CAPTURE_AND_STORAGE",
+  "category": "CARBON_CAPTURE",
+  "path": "E:\\fenta\\Downloads\\The Anticloud\\ANTICLOUD_REPOS\\CARBON_CAPTURE\\CARBON_CAPTURE_AND_STORAGE",
+  "status": "failed",
+  "reason": "no 40-hex git HEAD SHA (head='REMOVED_CONTAMINATED_SHA_PENDING_API_RESOLVE'; sanitized clone or .git absent)",
+  "files_count": 47,
+  "lines_of_code": 1080,
+  "sha": "REMOVED_CONTAMINATED_SHA_PENDING_API_RESOLVE"
+}

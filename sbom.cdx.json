@@ -1,0 +1,38 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.5",
+  "serialNumber": "urn:uuid:4b238acf-74af-59de-a20a-abbe44eb7a23",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2026-10-07T08:34:24Z",
+    "component": {
+      "type": "application",
+      "name": "CARBON_CAPTURE_AND_STORAGE",
+      "version": "82fbe817587b",
+      "bom-ref": "pkg:generic/anticloud/CARBON_CAPTURE_AND_STORAGE@82fbe817587b",
+      "purl": "pkg:generic/anticloud/CARBON_CAPTURE_AND_STORAGE@82fbe817587b",
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    "properties": [
+      {
+        "name": "anticloud:source-commit",
+        "value": "82fbe817587b312de590119d7ae52d2ea70055a8"
+      },
+      {
+        "name": "anticloud:source-url",
+        "value": "https://github.com/the-anticloud/anticloud-carbon-capture-and-storage.git"
+      },
+      {
+        "name": "anticloud:tier",
+        "value": "tier-agent"
+      }
+    ]
+  },
+  "components": []
+}
